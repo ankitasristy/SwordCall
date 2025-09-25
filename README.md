@@ -1,4 +1,4 @@
-#Sword Call
+Sword Call
 A multi-level action-adventure game built with C++ and OpenGL graphics, featuring puzzle-solving, platforming, and combat mechanics.
 Overview
 Sword Call is a three-level game that combines different gameplay mechanics:
